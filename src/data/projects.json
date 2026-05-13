@@ -1,0 +1,35 @@
+[
+  {
+    "title": "Global LinkHub",
+    "image": "https://i.ibb.co.com/4ZPyKCgJ/Screenshot-68.png",
+    "description": "A powerful link management platform that allows users to create, organize, and share collections of links. Features include custom link previews, analytics tracking, and collaborative sharing capabilities.",
+    "icon": "fas fa-link",
+    "category": "Full Stack",
+    "technologies": ["Next.js", "mongodb", "Tailwind", "express"],
+    "gradient": "from-green-500 to-teal-500",
+    "liveUrl": "https://global-link-hub.web.app/",
+    "githubUrl": "https://github.com/aminul-islam36/Global-Link-Hub_Client"
+  },
+  {
+    "title": "Asset Verce",
+    "image": "https://i.ibb.co.com/nNPSMHQz/Screenshot-67.png",
+    "description": "A sophisticated asset management system designed for tracking and managing digital assets. Includes features for asset categorization, performance monitoring, and detailed reporting with interactive charts.",
+    "icon": "fas fa-chart-line",
+    "category": "Full Stack",
+    "technologies": ["Next.js", "mongodb", "Tailwind", "node.js"],
+    "gradient": "from-purple-500 to-indigo-500",
+    "liveUrl": "https://hr-asset-verse.web.app/",
+    "githubUrl": "https://github.com/aminul-islam36/HR-Asset-Verse-Client"
+  },
+  {
+    "title": "TaskHub",
+    "image": "https://i.ibb.co.com/ymPFkyzn/Screenshot-78.png",
+    "description": "Task Pro is a micro-job web application where users can post small online tasks and other users can complete those tasks. The platform connects task creators and workers, making it easy to manage and complete small digital jobs.",
+    "icon": "fas fa-tasks",
+    "category": "Productivity",
+    "technologies": ["React", "Next.js", "Node.js"],
+    "gradient": "from-green-500 to-emerald-500",
+    "liveUrl": "https://task-pro-lake.vercel.app",
+    "githubUrl": "https://github.com/aminul-islam36/TaskHub.git"
+  }
+]

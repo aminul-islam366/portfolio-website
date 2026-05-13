@@ -1,0 +1,100 @@
+[
+  {
+    "title": "Frontend Development",
+    "icon": "fas fa-code",
+    "skills": [
+      {
+        "name": "React",
+        "icon": "fab fa-react",
+        "color": "text-cyan-400"
+      },
+      {
+        "name": "Next.js",
+        "icon": "fas fa-arrow-right",
+        "color": "text-white"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "fab fa-js-square",
+        "color": "text-yellow-400"
+      },
+      {
+        "name": "Tailwind",
+        "icon": "fas fa-paint-brush",
+        "color": "text-teal-400"
+      },
+      {
+        "name": "HTML5",
+        "icon": "fab fa-html5",
+        "color": "text-orange-500"
+      },
+      {
+        "name": "CSS3",
+        "icon": "fab fa-css3-alt",
+        "color": "text-blue-400"
+      }
+    ]
+  },
+  {
+    "title": "Backend Engineering",
+    "icon": "fas fa-server",
+    "skills": [
+      {
+        "name": "Node.js",
+        "icon": "fab fa-node-js",
+        "color": "text-green-500"
+      },
+      {
+        "name": "Firebase",
+        "icon": "fas fa-fire",
+        "color": "text-orange-500"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "fas fa-leaf",
+        "color": "text-green-400"
+      },
+      {
+        "name": "Express",
+        "icon": "fas fa-network-wired",
+        "color": "text-gray-400"
+      },
+      {
+        "name": "REST API",
+        "icon": "fas fa-exchange-alt",
+        "color": "text-white"
+      }
+    ]
+  },
+  {
+    "title": "Tools & Others",
+    "icon": "fas fa-tools",
+    "skills": [
+      {
+        "name": "Git",
+        "icon": "fab fa-git-alt",
+        "color": "text-orange-600"
+      },
+      {
+        "name": "github",
+        "icon": "fab fa-github",
+        "color": "text-purple-400"
+      },
+      {
+        "name": "Vercel",
+        "icon": "fas fa-cloud",
+        "color": "text-white"
+      },
+      {
+        "name": "VSCode",
+        "icon": "fas fa-code",
+        "color": "text-blue-400"
+      },
+      {
+        "name": "Bash",
+        "icon": "fas fa-terminal",
+        "color": "text-gray-200"
+      }
+    ]
+  }
+]
