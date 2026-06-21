@@ -1,5 +1,7 @@
 # AMIN - Full Stack Developer Portfolio
 
+- **Live Project** : https://amin36.netlify.app/
+
 A modern, responsive portfolio website built with **Vite + React.js**, **Tailwind CSS**, and **Framer Motion** animations.
 
 ## 🚀 Features
