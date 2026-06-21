@@ -28,8 +28,7 @@ A modern, responsive portfolio website built with **Vite + React.js**, **Tailwin
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/AMIN-portfolio.git
-cd AMIN-portfolio
+git clone https://github.com/aminul-islam366/portfolio-website.git
 ```
 
 2. **Install dependencies:**
